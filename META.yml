@@ -1,11 +1,11 @@
 --- #YAML:1.0
 name:                Thread-Semaphore
-version:             2.07
+version:             2.08
 abstract:            Thread-safe semaphores
 license:             perl
 author:              
     - Jerry D. Hedden <jdhedden AT cpan DOT org>
-generated_by:        ExtUtils::MakeMaker version 6.42
+generated_by:        ExtUtils::MakeMaker version 6.44
 distribution_type:   module
 requires:     
     Scalar::Util:                  1.1
